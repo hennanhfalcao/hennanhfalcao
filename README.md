@@ -15,8 +15,6 @@
  
  <br>
  
- ### Para me encontrar no Linkedin, acesse o link abaixo!
- 
 <div>  
   <a href="https://www.linkedin.com/in/hennan-heim-79a89894/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
