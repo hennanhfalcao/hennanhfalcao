@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Welcome to my GitHub Profile 😁
 
  <div>
    <a href="https://github.com/hennanhfalcao">
@@ -12,13 +12,10 @@
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-
-
-
- 
+  
  <br>
- 
-<div>  
-  <a href="https://www.linkedin.com/in/hennan-heim-79a89894/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+   
+<div> 
+ <p>Find me on LinkedIn:</p>  
+ <a href="https://www.linkedin.com/in/hennan-heim-79a89894/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
