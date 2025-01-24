@@ -6,7 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hennanhfalcao&layout=compact&langs_count=6&theme=tokyonight"/>  
    </div>  
   
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
