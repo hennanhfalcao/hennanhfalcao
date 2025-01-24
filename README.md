@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Profile 😁
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px>
+  <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px">
     <div>
      <a href="https://github.com/hennanhfalcao">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hennanhfalcao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
