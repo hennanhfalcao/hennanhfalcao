@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile 😁
+<h1>Welcome to my GitHub Profile 😁</h1>
 <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px">
   <div>
     <a href="https://github.com/hennanhfalcao">
@@ -8,7 +8,7 @@
   </div>  
   
   <div>
-    <h3>Languages</h3>
+    <h2>Languages</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -21,7 +21,7 @@
   </div>
   
   <div>
-    <h3>Frameworks</h3>
+    <h2>Frameworks</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
@@ -31,7 +31,7 @@
   </div>
 
   <div> 
-    <p>Find me on LinkedIn:</p>    
+    <h3>Find me on LinkedIn:</h3>    
     <a href="https://www.linkedin.com/in/hennan-heim-79a89894/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>  
